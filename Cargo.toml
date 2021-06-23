@@ -1,0 +1,13 @@
+[package]
+name = "comment-by"
+description = "A simple CLI to comment out parts of a file."
+version = "0.1.1"
+edition = "2018"
+authors = ["Aaron Turkel <aarondovturkel@gmail.com>"]
+license = "MIT OR Apache-2.0"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+structopt = "0.3.21"
+encoding_rs_io = "0.1.7"
