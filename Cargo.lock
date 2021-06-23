@@ -51,7 +51,7 @@ dependencies = [
 
 [[package]]
 name = "comment-by"
-version = "0.1.1"
+version = "0.1.2"
 dependencies = [
  "encoding_rs_io",
  "structopt",
